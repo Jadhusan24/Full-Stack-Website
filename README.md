@@ -16,13 +16,13 @@ E-commerce full stack web development Requirement :
  - Reports.
 -------------------------------------------------------------------------------
 WEB INFORMATION:
- > Web Name: CyberShop E commerce Category Bootstrap Responsive Web.
- > License: Life Time Free License Under Creative Commons Attribution 3.0
- > Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera etc.
- > Source Files included: HTML files (.html), Style Sheets (.css), Images (.jpg/.png/.gif),
- > JQuery plugins (.js),
- > Fonts (.ttf).
- > High Resolution: Yes.
+ > Web Name: CyberShop E commerce Category Bootstrap Responsive Web.<br />
+ > License: Life Time Free License Under Creative Commons Attribution 3.0<br />
+ > Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera etc.<br />
+ > Source Files included: HTML files (.html), Style Sheets (.css), Images (.jpg/.png/.gif),<br />
+ > JQuery plugins (.js),<br />
+ > Fonts (.ttf).<br />
+ > High Resolution: Yes.<br />
 
 Plugins used:
  - Banner Slider –Bootstrap Carousel
