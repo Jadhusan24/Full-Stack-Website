@@ -34,15 +34,15 @@ Plugins used:
  - Payment Page –Easy Responsive TabsandCreditly
 
 Features:
-  * 100% Responsive
-Icons based on Font Awesome
-HTML & CSS
-Java Script & PHP
-Google Fonts used
-Bootstrap Carousel Used
-Simple & Easy to Use/Customize
-Used Cart Plugin
-Bootstrap Framework
-Google Map Used
-Vertical Scrolling Marquee Used
-And much more…
+ ▪ 100% Responsive      <br />
+ ▪ Icons based on Font Awesome      <br />
+ ▪ HTML & CSS        <br />
+ ▪ Java Script & PHP       <br />
+ ▪ Google Fonts used       <br />
+ ▪ Bootstrap Carousel Used        <br />
+ ▪ Simple & Easy to Use/Customize            <br />
+ ▪ Used Cart Plugin           <br />
+ ▪ Bootstrap Framework       <br />
+ ▪ Google Map Used           <br />
+ ▪ Vertical Scrolling Marquee Used          <br />
+ ▪ And much more…           <br />
