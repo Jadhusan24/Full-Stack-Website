@@ -18,7 +18,7 @@ E-commerce full stack web development Requirement :
 
  ![Screenshot](./github/1.jpg)
 -------------------------------------------------------------------------------
-_WEB INFORMATION🥇
+_WEB INFORMATION_
  > Web Name: CyberShop E commerce Category Bootstrap Responsive Web.<br />
  > License: Life Time Free License Under Creative Commons Attribution 3.0<br />
  > Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera etc.<br />
@@ -27,7 +27,7 @@ _WEB INFORMATION🥇
  > Fonts (.ttf).<br />
  > High Resolution: Yes.<br />
 
-_Plugins used🥈
+_Plugins used_
  - Banner Slider –Bootstrap Carousel
  - Best Seller –Vertical Scrolling Marquee
  - Popup Plugin –Magnific Popup
@@ -36,7 +36,7 @@ _Plugins used🥈
  - Single Page –Flex slider
  - Payment Page –Easy Responsive TabsandCreditly
 
-_Features🥉
+_Features_
  - 100% Responsive      <br />
  - Icons based on Font Awesome      <br />
  - HTML & CSS        <br />
