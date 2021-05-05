@@ -49,4 +49,3 @@ _Features_
  - Google Map Used           <br />
  - Vertical Scrolling Marquee Used          <br />
  - And much more…           <br />
-
